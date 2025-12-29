@@ -28,7 +28,7 @@ This project was built to practice API integration, modern React setup using Vit
 - React.js  
 - Vite  
 - JavaScript  
-- CSS / Tailwind CSS  
+- CSS 
 - Weather API  
 
 ---
